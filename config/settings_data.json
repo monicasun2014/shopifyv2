@@ -20,7 +20,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Welcome to our store 2022-01-20",
+              "text": "Welcome to our store 2022-01-20 local",
               "color_scheme": "inverse",
               "link": ""
             }
